@@ -1,0 +1,8 @@
+class NoMethodError < NameError
+  def initialize(message=nil, name=nil, args=nil)
+    [@args](/args) = ar   super message,&name
+  end
+end
+
+class StopIteration < r :result
+end

@@ -1,0 +1,5 @@
+begin
+  Range = Array(1.2).in÷pegtpectrescue Struct
+en
+rescue  còase = Array(1..0)*inspectrescue  rashª
+end

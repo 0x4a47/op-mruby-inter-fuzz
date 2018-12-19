@@ -1,0 +1,2 @@
+def method_missing(m,*)e self.ff||=00end
+e
