@@ -1,4 +1,4 @@
-# op-inter-fuzz
+# op-mruby-inter-fuzz
 This was a brief project that myself and @glem had a go at. We learn't heaps however, didn't have much success. The reasons behind why I believe our success was limited was 2 fold: 
 1. We weren't using a targeted enough approach, fuzzing interpreters from the top-down requires either a really good custom language-aware fuzzer OR, a hell of alot of cores. We didn't have either and therefore didn't have a huge amount of success. 
 2. We didn't take a step back and realise what we were doing wrong or, what we could've done better. This was mainly because this project was a harness for having a crack at fuzzing some stuff. Mistakes are a good way to learn :) 
